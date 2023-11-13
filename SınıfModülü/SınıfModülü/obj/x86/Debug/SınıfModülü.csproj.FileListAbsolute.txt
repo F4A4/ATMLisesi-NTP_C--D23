@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\bin\Debug\SınıfModülü.exe
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\bin\Debug\SınıfModülü.pdb
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.Form1.resources
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.Properties.Resources.resources
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.exe
+C:\Users\MO-04\Desktop\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\23.GÜN\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\23.GÜN\SınıfModülü\SınıfModülü\obj\x86\Debug\SınıfModülü.pdb

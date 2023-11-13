@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\bin\Debug\SiniflarSoru1.exe
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\bin\Debug\SiniflarSoru1.pdb
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.Form1.resources
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.Properties.Resources.resources
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.exe
+C:\Users\MO-04\Desktop\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\23.GÜN\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\23.GÜN\SiniflarSoru1\SiniflarSoru1\obj\x86\Debug\SiniflarSoru1.pdb
